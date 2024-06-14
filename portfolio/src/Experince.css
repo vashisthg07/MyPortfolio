@@ -1,0 +1,29 @@
+.Experience{
+   height: 40vh;
+   width: 100vw;
+   display: flex;
+   justify-content: center;
+}
+.expsec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5vh;
+    font-size: 28px;
+    margin: 20vh 0;
+}
+.exdiv{
+    height: 40vh;
+    width: 80%;
+    color: black;
+    background-color:white;
+    border: 5px solid rgb(0, 255, 255);
+    border-radius: 20px;
+    padding: 10px   ;
+}
+.exdiv h4{
+    text-decoration: underline;
+}
+.exdiv li{
+    font-size: 20px;
+}

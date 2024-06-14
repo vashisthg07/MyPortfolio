@@ -1,0 +1,172 @@
+.skills{
+    height: 23rem;
+    width: 100vw;
+ 
+}
+.limg{
+    height: 100px;
+    width: 100px;
+}
+.headingskills{
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.skills1{
+    margin: 15vh 0;
+    height: 20rem;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    
+}
+/* 
+.react{
+    height: 13rem;
+    width: 17vw;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.reactimg2{
+    height: 6rem;
+margin-left: 3rem;
+margin-top: 3rem;
+    
+
+}
+.htmlimg1{
+    margin-left: 9rem;
+height: 6rem;
+margin-top: 5rem;
+}
+.tailwind{
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    margin-top: 2rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.tailwindimg1{
+    height: 6rem;
+    margin-top: 3rem;
+    margin-left:2rem ;
+}
+.headingskills:hover{
+    color: rgb(0,255,255);
+} */
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:landscape){
+    .skills{
+        height: 23rem;
+        width: 100vw;
+     
+    }
+    .headingskills{
+        font-size: 1.8rem;
+        text-align: center;
+    }
+    .skills1{
+        height: 20rem;
+        width: 100vw;
+        display: flex;
+        
+    }
+    
+    .react{
+        height: 10rem;
+        width: 20vw;
+       margin-left: 1rem;
+        border-radius: 50%;
+        background-color: white;
+        
+    }
+    .reactimg2{
+        height: 4rem;
+
+
+   margin-left: 2.5rem;
+    margin-top: 3rem;
+        
+    
+    }
+    .htmlimg1{
+        margin-left: 4rem;
+    height: 5rem;
+    margin-top: 5rem;
+    }
+    .tailwind{
+        height: 10rem;
+        width: 20vw;
+        margin-left: 3rem;
+        margin-top: 2rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .tailwindimg1{
+        height: 4rem;
+        margin-top: 3rem;
+        margin-left:2rem ;
+    }
+    .headingskills:hover{
+        color: rgb(0,255,255);
+    }
+    
+} 
+@media only screen and (min-width:320px) and (max-width:767px) {
+    .skills{
+        height: 35rem;
+        width: 100vw;
+        text-align: center;
+     
+    }
+    .headingskills{
+        font-size: 1.3rem;
+        text-align: center;
+      
+    }
+    .skills1{
+        height: 35rem;
+        width: 100vw;
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    
+    .react{
+        height: 8rem;
+        width: 44vw;
+        margin-left: 5rem;
+        margin-top: 1rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .reactimg2{
+        height: 4rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+        
+    
+    }
+    .htmlimg1{
+        margin-left: 3.5rem;
+    height: 3rem;
+    margin-top: 3rem;
+    }
+    .tailwind{
+        height: 8rem;
+        width: 44vw;
+        margin-left: 5rem;
+        margin-top: 1rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .tailwindimg1{
+        height: 3rem;
+        margin-top: 2rem;
+        margin-left:2rem ;
+    }
+    .headingskills:hover{
+        color: rgb(0,255,255);
+    } 
+}
